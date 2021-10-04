@@ -15,3 +15,4 @@
 /json/vac_request_delivery.json filter=lfs diff=lfs merge=lfs -text
 /json/vac_request_givenprov copy.json filter=lfs diff=lfs merge=lfs -text
 /json/vac_request_givenprov.json filter=lfs diff=lfs merge=lfs -text
+*.xlsx filter=lfs diff=lfs merge=lfs -text
