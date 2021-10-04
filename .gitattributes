@@ -1,0 +1,13 @@
+/json/cases filter=lfs diff=lfs merge=lfs -text
+/json/confirmed-cases-since-120864.csv filter=lfs diff=lfs merge=lfs -text
+/json/confirmed-cases.csv filter=lfs diff=lfs merge=lfs -text
+/json/covid-19-daily filter=lfs diff=lfs merge=lfs -text
+/json/deaths_all-July.csv filter=lfs diff=lfs merge=lfs -text
+/json/deaths_all.csv filter=lfs diff=lfs merge=lfs -text
+/json/moph_dashboard_prov.csv filter=lfs diff=lfs merge=lfs -text
+/json/sector_01_11101_EN_.xlsx filter=lfs diff=lfs merge=lfs -text
+/json/source-data.csv filter=lfs diff=lfs merge=lfs -text
+/json/vac_request_delivery copy.json filter=lfs diff=lfs merge=lfs -text
+/json/vac_request_delivery.json filter=lfs diff=lfs merge=lfs -text
+/json/vac_request_givenprov copy.json filter=lfs diff=lfs merge=lfs -text
+/json/vac_request_givenprov.json filter=lfs diff=lfs merge=lfs -text
