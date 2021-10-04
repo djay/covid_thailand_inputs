@@ -1,1 +1,3 @@
-{"dataResponse":[{"dataSubset":[{"requestId":"","jobRequestUrl":[]}],"errorStatus":{"code":7,"reason":4,"reasonStr":"PERMISSION_DENIED","uniqueErrorCode":"52aa07df","category":1,"errorCategoryStr":"ACCESS","errorDetails":{"permissionDeniedErrorDetails":{"aclModes":2}}}}]}
+version https://git-lfs.github.com/spec/v1
+oid sha256:33e6ac52bbfaceea9df3f51bc173d369255578e1a128efc3255ff6a9632bcb83
+size 272
